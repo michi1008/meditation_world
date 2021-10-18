@@ -1,0 +1,13 @@
+{
+  "name": "ken_meditaion_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://michi1008.github.io/ken-meditation-world"
+}
